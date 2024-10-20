@@ -2,6 +2,7 @@ hi,
 This is simple calculator project.
 where used html, css and Java-script.
  live link : https://lnkd.in/gr3SUsbg
+![Capture](https://github.com/user-attachments/assets/b0517aa8-d18e-4e27-a55b-9d68645d6d16)
 
 myself 
 https://lnkd.in/g7NuYe39
