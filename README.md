@@ -1,5 +1,5 @@
 hi,
-This is simple sara-live-UI project.
+This is simple sara-live-UI project. only for practice purpose....
 where used html, css, bootstrap and Java-script.
  live link :[ https://lnkd.in/gr3SUsbg](https://raihan-raju.github.io/sara-live-project/)
 ![Capture](https://github.com/user-attachments/assets/b0517aa8-d18e-4e27-a55b-9d68645d6d16)
